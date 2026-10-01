@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# Large datasets
+archive/*.csv
+fake_news_detector/data/*.csv
